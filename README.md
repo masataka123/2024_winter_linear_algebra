@@ -46,6 +46,10 @@
 
 上の演習の授業を欠席する場合はmasataka[at]math.sci.osaka-u.ac.jpにご連絡ください. ([at]をアットマークに変えてください. ) 正当な理由での欠席と認められれば別途レポート提出で対応いたします.  
 
+### 演習1回目(2024/11/19)の問題と解答
+- [演習問題1](https://masataka123.github.io/2024_winter_linear_algebra/material/0_演習問題線形代数_1_20241119.pdf)
+- [演習問題1の解答と講評](https://masataka123.github.io/2024_winter_linear_algebra/material/0_演習問題線形代数_1_20241119_解答.pdf)
+
 ## 期末試験に関して
 
 期末試験の情報をお知らせします. 
