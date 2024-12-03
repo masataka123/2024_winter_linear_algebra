@@ -164,7 +164,7 @@
 -  (2024/11/12). 休講
 - 第6回 (2024/11/19). 演習1 [演習問題1](https://masataka123.github.io/2024_winter_linear_algebra/material/0_演習問題線形代数_1_20241119.pdf) [演習問題1の解答と講評](https://masataka123.github.io/2024_winter_linear_algebra/material/0_演習問題線形代数_1_20241119_解答.pdf)
 -  (2024/11/26). 休講
-- 第7回 (2024/12/03).
+- 第7回 (2024/12/03). [第6回授業板書](https://masataka123.github.io/2024_winter_linear_algebra/material/6_授業板書.pdf)
 - 第8回 (2024/12/10).
 - 第9回 (2024/12/17).  
 - 第10回 (2024/12/24).  
