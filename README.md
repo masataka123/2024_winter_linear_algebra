@@ -167,10 +167,10 @@
 - 第7回 (2024/12/03). [第6回授業板書](https://masataka123.github.io/2024_winter_linear_algebra/material/6_授業板書.pdf)
 - 第8回 (2024/12/10). [第7回授業板書](https://masataka123.github.io/2024_winter_linear_algebra/material/7_授業板書.pdf)
 - 第9回 (2024/12/17). [第8回授業板書](https://masataka123.github.io/2024_winter_linear_algebra/material/8_授業板書.pdf)
-- 第10回 (2024/12/24).  
-- 第11回 (2025/01/07).  
-- 第12回 (2025/01/14).  演習
-- 第13回 (2025/01/21).  期末試験 (予定)
+- 第10回 (2024/12/24). [第9回授業板書](https://masataka123.github.io/2024_winter_linear_algebra/material/9_授業板書.pdf)
+-  (2025/01/07).  休講
+- 第11回 (2025/01/14).  演習
+- 第12回 (2025/01/21).  期末試験 (予定)
 
 <!--
 - 第1回 (2023/10/05). [第1回授業板書](https://masataka123.github.io/2024_winter_linear_algebra/material/1_授業板書.pdf)
